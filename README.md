@@ -1,7 +1,6 @@
 # Cherrie
 
-
- ![Cherrie](Cherrie.jpg)
+<img src="Cherrie.jpg" alt="Cherrie" width="200" height="200">
 
 ## Εισαγωγή
 
